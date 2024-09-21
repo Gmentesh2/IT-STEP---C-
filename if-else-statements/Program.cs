@@ -184,6 +184,17 @@
             //    {
             //    Console.WriteLine("Invalid choice. Please select 1 or 2.");
             //    }
+            //8 
+
+            //Console.WriteLine("Enter date (MM/dd/yyyy):");
+            //DateTime date = DateTime.Parse(Console.ReadLine());
+
+            //string season = (date.Month == 12 || date.Month <= 2) ? "ზამთარი" :
+            //                (date.Month >= 3 && date.Month <= 5) ? "გაზაფხული" :
+            //                (date.Month >= 6 && date.Month <= 8) ? "ზაფხული" : "შემოდგომა";
+
+            //Console.WriteLine($"{season}");
+
             }
         }
     }
